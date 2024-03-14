@@ -1,0 +1,31 @@
+body{
+    background-image: url("./virat3\,jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+h1{
+    color: black red ;
+    font-size: 70px;
+}
+h3{
+    font-size: 30px;
+    color:blue
+}
+.image1{
+    height: 250px;
+    width: 250px;
+    margin-left: 625px;
+    border-radius: 10px;
+}
+.image2{
+    height:250px;
+    width:250px;
+    box-align:"left";
+    border-radius: 30px;
+}
+.image3{
+    height:250px;
+    width:250px;
+    box-align:"left";
+    border-radius: 40px;
+}

@@ -1,0 +1,30 @@
+body{
+    background-image: url("./background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    transition: transform .2s;
+}
+.main{
+    display: flex;
+    justify-content: space-evenly;
+}
+h1{
+    margin-top: 50px;
+    margin-bottom: 100px;
+    color: black red ;
+    font-size: 100px;
+}
+h3{
+    margin-left: 60px;
+    margin-right: 60px;
+    color: red;
+    background-color: whitesmoke;
+}
+img:hover{
+    transform: scale(1.5);
+}
